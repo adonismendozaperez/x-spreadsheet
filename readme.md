@@ -10,6 +10,12 @@
   </a>
 </p>
 
+## Community
+If you want to translate the repo into your native language, please feel free to do so.
+All the translations for this report will be listed below:
+
+- [Spanish](https://github.com/adonismendozaperez/x-spreadsheet/tree/Spanish) — Adonis Mendoza
+
 ## Install
 ``` shell
 npm install x-data-spreadsheet
